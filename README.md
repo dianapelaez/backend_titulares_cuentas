@@ -1,12 +1,12 @@
 # backend_titulares_cuentas
 Titulares de cuentas corrientes
 
-Ejercicio Se debe tener en cuenta antes de iniciar el servidor, crear el schema "examentecsoauto" en la base de datos mysql, 
+1. Ejercicio Se debe tener en cuenta antes de iniciar el servidor, crear el schema "examentecsoauto" en la base de datos mysql, 
 y modificar los valores de username y password por los de la base de datos de su conexion, las tablas se generaran automaticamente.
 
 Se debe agregar el complemento CORS en el navegador para intercambio entre los puertos de java y angular.
 
-Ejercicio Url de endpoints requeridos en la capa REST:
+2. Ejercicio Url de endpoints requeridos en la capa REST:
 - Crear cuenta: POST, http://localhost:8000/api/cuentacorriente 
 { 
 "versionNumber":1 , 
